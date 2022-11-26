@@ -1,6 +1,0 @@
-{
-  "pizzas": [
-    { "id": 1, "name": "Cheese Pizza" },
-    { "id": 2, "name": "Al Tono" }
-  ]
-}
